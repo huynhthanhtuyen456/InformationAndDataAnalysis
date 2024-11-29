@@ -1,0 +1,21 @@
+ID,StartStation,EndStation,Distance,Unit,Color
+1,Hyde Park Corner,Green Park,769.02,m,#0015ff
+2,Green Park,Piccadilly Circus,680.53,m,#0015ff
+3,Piccadilly Circus,Leicester Square,458.20,m,#0015ff
+4,Leicester Square,Covent Garden,321.90,m,#0015ff
+5,Covent Garden,Holborn,562.74,m,#0015ff
+6,Victoria,Green Park,1.20,km,#2e9ddb
+7,Green Park,Oxford Circus,888.46,m,#2e9ddb
+8,Oxford Circus,Warren Street,1.07,km,#2e9ddb
+9,Warren Street,Seven Sisters,7.98,km,#2e9ddb
+10,Seven Sisters,Blackhorse Road,2.22,km,#2e9ddb
+11,Embankment,Charing Cross,0.36,km,#aa5516
+12,Charing Cross,Piccadilly Circus,0.6,km,#aa5516
+13,Piccadilly Circus,Oxford Circus,0.9,km,#aa5516
+14,Oxford Circus,Regens Park,1,km,#aa5516
+15,Regens Park,Baker Street Station,0.8,km,#aa5516
+16,Waterloo,Charing Cross,1.4,km,#262324
+17,Charing Cross,Leicester Square,0.4,km,#262324
+18,Leicester Square,Goodge Street,1.1,km,#262324
+19,Goodge Street,Warren Street,10.5,km,#262324
+19,Warren Street,Mornington Crescent,1.3,km,#262324

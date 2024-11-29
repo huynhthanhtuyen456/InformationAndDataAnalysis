@@ -1,0 +1,20 @@
+ID,Station,Latitude,Longitude,Color
+1,Hyde Park Corner,35,35,#0015ff
+2,Green Park,50,50,#0015ff
+3,Piccadilly Circus,90,50,#0015ff
+4,Leicester Square,130,50,#0015ff
+5,Covent Garden,150,65,#0015ff
+6,Holborn,175,90,#0015ff
+7,Victoria,50,10,#2e9ddb
+8,Oxford Circus,60,75,#2e9ddb
+9,Warren Street,80,100,#2e9ddb
+10,Seven Sisters,150,130,#2e9ddb
+11,Blackhorse Road,190,130,#2e9ddb
+12,Embankment,140,5,#aa5516
+13,Charing Cross,130,25,#aa5516
+14,Regens Park,55,105,#aa5516
+15,Baker Street Station,35,125,#aa5516
+16,Waterloo,130,-10,#262324
+17,Charing Cross,130,25,#262324
+18,Mornington Crescent,100,120,#262324
+19,Goodge Street,130,80,#262324

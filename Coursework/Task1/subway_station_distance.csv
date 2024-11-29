@@ -1,0 +1,6 @@
+ID,StartStation,EndStation,Distance,Unit,Color
+1,Hyde Park Corner,Green Park,769.02,m,#0015ff
+2,Green Park,Piccadilly Circus,680.53,m,#0015ff
+3,Piccadilly Circus,Leicester Square,458.20,m,#0015ff
+4,Leicester Square,Covent Garden,321.90,m,#0015ff
+5,Covent Garden,Holborn,562.74,m,#0015ff

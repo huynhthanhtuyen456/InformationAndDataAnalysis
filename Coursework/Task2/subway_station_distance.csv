@@ -4,18 +4,23 @@ ID,StartStation,EndStation,Distance,Unit,Color
 3,Piccadilly Circus,Leicester Square,440.30,m,#0015ff
 4,Leicester Square,Covent Garden,321.99,m,#0015ff
 5,Covent Garden,Holborn,565.79,m,#0015ff
-6,Victoria,Green Park,1.22,km,#6e2c91
-7,Green Park,Oxford Circus,917.90,m,#6e2c91
-8,Oxford Circus,Warren Street,1.05,km,#6e2c91
-9,Warren Street,Seven Sisters,7.89,km,#6e2c91
-10,Seven Sisters,Blackhorse Road,2.17,km,#6e2c91
-11,Embankment,Charing Cross,282.80,m,#1b3f94
-12,Charing Cross,Piccadilly Circus,594.89,m,#1b3f94
-13,Piccadilly Circus,Oxford Circus,776.44,m,#1b3f94
-14,Oxford Circus,Regens Park,976.43,m,#1b3f94
-15,Regens Park,Baker Street,712.99,m,#1b3f94
-16,Waterloo,Charing Cross,959.37,m,#00843d
-17,Charing Cross,Leicester Square,359.88,m,#00843d
-18,Leicester Square,Goodge Street,1.11,km,#00843d
-19,Goodge Street,Warren Street,517.07,m,#00843d
-19,Warren Street,Mornington Crescent,1.08,km,#00843d
+6,Victoria,Green Park,1.22,km,#2e9ddb
+7,Green Park,Oxford Circus,917.90,m,#2e9ddb
+8,Oxford Circus,Warren Street,1.05,km,#2e9ddb
+9,Warren Street,Seven Sisters,7.89,km,#2e9ddb
+10,Seven Sisters,Blackhorse Road,2.17,km,#2e9ddb
+11,Embankment,Charing Cross,282.80,m,#aa5516
+11,Waterloo,Embankment,667.36,m,#aa5516
+12,Charing Cross,Piccadilly Circus,594.89,m,#aa5516
+13,Piccadilly Circus,Oxford Circus,776.44,m,#aa5516
+14,Oxford Circus,Regens Park,976.43,m,#aa5516
+15,Regens Park,Baker Street,712.99,m,#aa5516
+16,Waterloo,Piccadilly Circus,1.54,km,#aa5516
+17,Waterloo,Charing Cross,959.37,m,#262324
+18,Charing Cross,Leicester Square,359.88,m,#262324
+19,Leicester Square,Goodge Street,1.11,km,#262324
+20,Goodge Street,Warren Street,517.07,m,#262324
+21,Warren Street,Mornington Crescent,1.08,km,#262324
+22,Victoria,St. James's Park,808.28,m,#ffff00
+23,St. James's Park,Embankment,1.16,km,#ffff00
+24,Oxford Circus,Holborn,2.13,km,#ff0000

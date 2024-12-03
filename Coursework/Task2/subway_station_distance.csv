@@ -18,9 +18,16 @@ ID,StartStation,EndStation,Distance,Unit,Color
 16,Waterloo,Piccadilly Circus,1.54,km,#aa5516
 17,Waterloo,Charing Cross,959.37,m,#262324
 18,Charing Cross,Leicester Square,359.88,m,#262324
-19,Leicester Square,Goodge Street,1.11,km,#262324
+19,Leicester Square,Tottenham Court Road,532.22,m,#262324
+19,Tottenham Court Road,Goodge Street,565.46,m,#262324
 20,Goodge Street,Warren Street,517.07,m,#262324
 21,Warren Street,Mornington Crescent,1.08,km,#262324
-22,Victoria,St. James's Park,808.28,m,#ffff00
-23,St. James's Park,Embankment,1.16,km,#ffff00
-24,Oxford Circus,Holborn,2.13,km,#ff0000
+22,Sloane Square,Victoria,950.38,m,#fccc0a
+23,Victoria,St. James's Park,808.28,m,#fccc0a
+24,St. James's Park,Embankment,1.16,km,#fccc0a
+24,Embankment,Temple,679.73,m,#fccc0a
+25,Oxford Circus,Tottenham Court Road,827.46,m,#ff0000
+26,Tottenham Court Road,Holborn,703.98,m,#ff0000
+27,Bond Street,Oxford Circus,498.70,m,#ff0000
+28,Marble Arch,Bond Street,654.79,m,#ff0000
+29,Holborn,Chancery Lane,593.07,m,#ff0000

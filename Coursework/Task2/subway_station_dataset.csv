@@ -17,5 +17,11 @@ ID,Station,Latitude,Longitude,Color
 16,Waterloo,130,-10,#262324
 17,Charing Cross,130,25,#262324
 18,Mornington Crescent,100,120,#262324
-19,Goodge Street,130,80,#262324
-20,St. James's Park,80,20,#ffff00
+19,Goodge Street,130,90,#262324
+20,St. James's Park,80,20,#fccc0a
+20,Temple,160,20,#fccc0a
+20,Sloane Square,20,5,#fccc0a
+21,Bond Street,40,75,#ff0000
+22,Marble Arch,15,75,#ff0000
+23,Chancery Lane,200,90,#ff0000
+24,Tottenham Court Road,133,70,#ff0000
